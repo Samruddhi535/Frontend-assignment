@@ -1,0 +1,19 @@
+/* components/ImageGallery.css */
+.image-gallery {
+    padding: 24px;
+  }
+  
+  .image-gallery h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 16px;
+  }
+  
+  .image-gallery img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  }
+  
